@@ -1,0 +1,26 @@
+{
+  "name": "@isacarcanjo/solid-create",
+  "version": "2.0.3",
+  "description": "To make architecture of SOLID in typescript",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "solid": "bin/script-global.js"
+  },
+  "publishConfig": {
+    "global": true
+  },
+  "keywords": [
+    "SOLID",
+    "create",
+    "solid"
+  ],
+  "author": "isacarcanjo",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  }
+}
+   
