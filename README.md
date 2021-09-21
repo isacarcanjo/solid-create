@@ -2,6 +2,7 @@
 
 create SOLID projects using this snippet
 
+[NPM](https://www.npmjs.com/package/@isacarcanjo/solid-create)
 
 # Installation
 
