@@ -4,7 +4,7 @@
   "description": "To make architecture of SOLID in typescript",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bin/script-global.js"
   },
   "bin": {
     "solid": "bin/script-global.js"

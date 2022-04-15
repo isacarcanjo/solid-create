@@ -30,6 +30,8 @@ function toFindCommand(args) {
         case '-e':
             if (args.length > 2) {
                 myLibrary.createEntities(name, args.splice(2, args.length))
+            } else {
+                console.log("\x1b[31m", 'Must contain at least 1 argument')
             }
             break;
         default:
