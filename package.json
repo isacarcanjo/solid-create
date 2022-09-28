@@ -1,6 +1,6 @@
 {
   "name": "@isacarcanjo/solid-create",
-  "version": "2.0.3",
+  "version": "2.0.5",
   "description": "To make architecture of SOLID in typescript",
   "main": "./lib/index.js",
   "scripts": {
