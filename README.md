@@ -29,6 +29,9 @@ solid -e User name email password
 ```
 
 ![example](https://raw.githubusercontent.com/isacarcanjo/solid-create/main/solid-best-example.gif)
+<br/>
+
+
 For CLI options, use the `-h` (or `--help`) argument:
 
 Author: https://github.com/isacarcanjo
