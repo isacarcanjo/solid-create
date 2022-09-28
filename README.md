@@ -6,7 +6,7 @@ create SOLID projects using this snippet
 
 # Installation
 
-Either through cloning with git or by using [npm](http://npmjs.org) (the recommended way):
+Either through cloning with git or by using [npm](https://www.npmjs.com/package/@isacarcanjo/solid-create) (the recommended way):
 
 ```bash
 npm install -g @isacarcanjo/solid-create --force
