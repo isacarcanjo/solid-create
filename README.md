@@ -23,9 +23,10 @@ solid -e [name of entitie] [field1] [field2] ...
 
 Example:
 
-$ solid -u CreateUser
-$ solid -e User name email password
-  
+```bash
+solid -u CreateUser
+solid -e User name email password
+```
 
 ![example](https://raw.githubusercontent.com/isacarcanjo/solid-create/main/solid.gif)
 For CLI options, use the `-h` (or `--help`) argument:
