@@ -21,6 +21,9 @@ solid -u [name of useCase]
 solid -e [name of entitie] [field1] [field2] ...
 ```
 
+Example:
+
+![example](https://raw.githubusercontent.com/isacarcanjo/solid-create/main/solid-create.gif)
 For CLI options, use the `-h` (or `--help`) argument:
 
 Author: https://github.com/isacarcanjo
